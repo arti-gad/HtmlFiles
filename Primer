@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Prob</title>
+</head>
+<style type="text/css">
+.style {
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px; /* Радиус скругления */
+    padding: 10px;
+    color: rgb(101, 101, 101);
+    word-wrap: break-word;
+    font-family: 'Alegreya', serif;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    font-size: large;
+    -webkit-user-select: none;
+    margin-bottom: 10px;
+}
+  </style>
+<body>
+    <div class="style">Поздравление</div>
+</body>
+</html>
